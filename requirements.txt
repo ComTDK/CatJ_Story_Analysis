@@ -3,3 +3,4 @@ scipy
 fastapi
 pydantic
 uvicorn
+pytorch
