@@ -1,0 +1,5 @@
+transformers
+scipy
+fastapi
+pydantic
+uvicorn
